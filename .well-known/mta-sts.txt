@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: ALT2.ASPMX.L.GOOGLE.COM
 mx: ASPMX4.GOOGLEMAIL.COM
 mx: ASPMX2.GOOGLEMAIL.COM
